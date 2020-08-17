@@ -114,7 +114,7 @@ async def main():
             print(i)
 ```
 
-### 5. 异步进程池
+### 6. 异步进程池
 
 ``` python
 def block_task():
