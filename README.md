@@ -7,3 +7,4 @@ Python 使用记录
 - [x] 装饰器
 - [x] Concurrency 
 - [x] Iterator 
+- [x] Class 
