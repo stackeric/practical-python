@@ -9,3 +9,7 @@ Python 使用记录
 - [x] Iterator 
 - [x] Class 
 - [x] Module
+- [x] Unittest
+- [ ] Requests
+- [ ] Flask
+- [ ] Sqlalchemy
