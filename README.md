@@ -10,6 +10,6 @@ Python 使用记录
 - [x] Class 
 - [x] Module
 - [x] Unittest
-- [ ] Requests
+- [x] Requests
 - [ ] Flask
 - [ ] Sqlalchemy
